@@ -1,0 +1,21 @@
+---
+title: Assignment 05
+author:
+  - name: Norah Jones
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
+number-sections: true
+date: today
+format:
+  docx:
+    fontsize: 12pt
+date-modified: today
+date-format: long
+execute:
+  echo: false
+  eval: false
+  freeze: auto
+---
